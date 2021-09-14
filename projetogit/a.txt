@@ -1,0 +1,3 @@
+teste
+esta linha foi modificada no ramo master
+entendendo o git, essa linha foi modificada no ramo teste
